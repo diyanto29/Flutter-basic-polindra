@@ -29,9 +29,9 @@ Isi di bin/magicbook_basic.dart
       exit(0);
     }
   } else {
-    fullName = "DenyOcr";
-    whatsapp = "6282146727409";
-    email = "denyocr.world@gmail.com";
+    fullName = "Diyanto";
+    whatsapp = "085624277920";
+    email = "";
   }
 
   int point = 0;
